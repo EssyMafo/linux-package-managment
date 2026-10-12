@@ -1,0 +1,25 @@
+# Temporary files and logs
+*.tmp
+*.log
+
+# Text editor backup and swap files
+*~
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Private keys and certificates
+*.pem
+*.key
+
+# Python cache files (if Python is used in future labs)
+__pycache__/
+*.py[cod]
