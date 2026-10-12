@@ -52,16 +52,16 @@ package_management
 
 Mark a task complete only after verifying its result and capturing the relevant evidence.
 
-- [ ] Identify the operating system and repositories.
-- [ ] Investigate the unavailable `htop` search result.
-- [ ] Inspect `tree` and `nano`.
-- [ ] Verify the `jq` upgrade.
-- [ ] Complete and verify the `jq` downgrade.
-- [ ] Install and test the version-lock plugin.
-- [ ] Install and remove a test package.
-- [ ] Capture and review the screenshots.
-- [ ] Complete the lab report and troubleshooting notes.
-- [ ] Commit and push the project to GitHub.
+- [*] Identify the operating system and repositories.
+- [*] Investigate the unavailable `htop` search result.
+- [*] Inspect `tree` and `nano`.
+- [*] Verify the `jq` upgrade.
+- [*] Complete and verify the `jq` downgrade.
+- [*] Install and test the version-lock plugin.
+- [*] Install and remove a test package.
+- [*] Capture and review the screenshots.
+- [*] Complete the lab report and troubleshooting notes.
+- [*] Commit and push the project to GitHub.
 
 ## Key lessons
 
