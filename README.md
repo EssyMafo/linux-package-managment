@@ -1,4 +1,4 @@
-# CentOS Stream 9 Package Management Lab
+# CentOS Stream 9 Package Management
 
 ## Overview
 
